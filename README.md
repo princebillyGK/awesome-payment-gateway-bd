@@ -1,6 +1,6 @@
 # Awesome Payment Gateway BD
 
-**(List of Awesome Payment Gateways in Bangladesh)** *[Last Updated: December 25, 2022]*
+**(List of Awesome Payment Gateways in Bangladesh)** *[**NOT COMPLETE YET -** Last Updated: December 25, 2022]*
 
 ## List of payment gateways and their links:
 
